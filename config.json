@@ -1,0 +1,8 @@
+{
+    "paths": {
+        "df_agg": "/Users/francescafuentes/Documents/Data/Portfolio Data/YT_Dashboard_St/Aggregated_Metrics_By_Video.csv",
+        "df_agg_sub": "/Users/francescafuentes/Documents/Data/Portfolio Data/YT_Dashboard_St/Aggregated_Metrics_By_Country_And_Subscriber_Status.csv",
+        "df_comments": "/Users/francescafuentes/Documents/Data/Portfolio Data/YT_Dashboard_St/Aggregated_Metrics_By_Video.csv",
+        "df_time": "/Users/francescafuentes/Documents/Data/Portfolio Data/YT_Dashboard_St/Video_Performance_Over_Time.csv"
+    }
+}
