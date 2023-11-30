@@ -1,5 +1,7 @@
 # YouTube Data Analysis Dashboard with Streamlit and Python
 
+Data: https://www.kaggle.com/datasets/kenjee/ken-jee-youtube-data
+
 This project creates a YouTube data analysis dashboard using Streamlit, a web application framework, in Python. It's designed for aggregating and visualizing YouTube video metrics to aid content creators and marketers.
 
 ## Libraries
